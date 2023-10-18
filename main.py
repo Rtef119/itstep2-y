@@ -21,6 +21,7 @@ class Student:
         print("Rest time")
         self.gladness +=5
         self.progress -=0.1
+        self.money -=0.5
 
     def to_magazin(self):
         print("I want to Magazin")
